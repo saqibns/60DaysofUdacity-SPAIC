@@ -1,2 +1,2 @@
 # 60DaysofUdacity-SPAIC
-Code for the 60 Days of Udacity Challenge
+I was accepted into Udacity's Secure and Private AI Scholarship Challenge, a nanodegree program at Udacity in collaboration with Facebook AI. As a part of the program, I participated in `#60DaysofUdacity` Challenge. This repository lists code (which was supposed on the topics: PyTorch, Deep Learning, Computer Vision, Differential Privacy and Secure AI) which I wrote as a part of the challenge.

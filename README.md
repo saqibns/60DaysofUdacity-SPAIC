@@ -3,4 +3,5 @@ I was accepted into Udacity's Secure and Private AI Scholarship Challenge, a nan
 
 Days 1, 2:    [Style Transfer](https://github.com/saqibns/60DaysofUdacity-SPAIC/blob/master/Day-01-02/main.py)  
 Day  3, 5, 6: [SRGAN](https://github.com/saqibns/60DaysofUdacity-SPAIC/blob/master/Day-03-05-06/models.py)  
+Day 11:       [Virtual Adversarial Training](https://github.com/saqibns/60DaysofUdacity-SPAIC/blob/master/Day-11/vat.py)
 
